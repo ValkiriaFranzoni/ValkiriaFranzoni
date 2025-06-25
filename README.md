@@ -1,12 +1,26 @@
-## Olá eu sou a ValkiriaFranzoni 👋
-Sou Biomédica habilitada em Bioinformática, com interesse em ciência de dados aplicada à saúde. Atuo em pesquisa científica com foco em expressão gênica — atualmente investigando a expressão de receptores de dopamina em câncer de mama.
+## 👋 Olá, eu sou a ValkiriaFranzoni
 
-No momento, estou aprofundando meus conhecimentos em:
-- 🐍 Python para análise de dados
-- 📊 Estatística aplicada
-- 💻 Visual Studio Code (VSCode)
-- 🧬 R e RStudio para análise bioinformática
-- 🔬 Bioinformática e expressão gênica
-- 
-Tenho interesse em projetos que integram ciência, tecnologia e saúde, com foco em dados biológicos e medicina de precisão.
-📫 Entre em contato: [valkiriafranzoni@gmail.com]
+Sou **Biomédica com habilitação em Bioinformática**, apaixonada por ciência de dados aplicada à saúde.  
+Atuo em pesquisa científica com foco em **expressão gênica** e recentemente expandi minha atuação para projetos em **ciência de dados aplicada à área financeira**, utilizando métodos estatísticos e programação para extração de insights.
+
+---
+
+### 💡 Principais habilidades
+
+- 🐍 **Python** para análise de dados e manipulação de grandes datasets  
+- 📊 **Estatística descritiva e inferencial**: testes de hipótese, análise de dispersão e distribuição  
+- 🔍 **Análise Exploratória de Dados (EDA)**: detecção de outliers, visualização de padrões e limpeza de dados  
+- 📈 **Visualização de Dados** com Matplotlib e Seaborn  
+- 💾 **Pandas e NumPy** para manipulação de dados  
+- 🧠 **R e RStudio** para análises bioinformáticas e genômica  
+- ⚙️ **Normalização e pré-processamento de dados**  
+- 🧪 **Teste t para amostras independentes**, análise de correlação e variabilidade  
+- 🧬 **Bioinformática e expressão gênica**  
+- 💻 **Visual Studio Code (VSCode)**
+
+---
+
+### 💼 Projetos realizados
+
+- 🔬 **Pesquisa científica**: expressão de receptores de dopamina em câncer de mama  
+- 📉 **Análise de risco de crédito**: pipeline completo desde a limpeza do dataset até a análise estatística com recomendações para modelos preditivos
